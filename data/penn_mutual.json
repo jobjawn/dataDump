@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name":"Penn Mutual",
+    "url": "https://www.pennmutual.com",
+    "location": "Horsham",
+    "jobs_url": "https://www.pennmutual.com/careers/corporate"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Software Engineer",
+        "url": "https://pennmutuallife-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=1119&company_id=17160&version=1&source=ONLINE&jobOwner=992403&aid=1",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Software Engineer-Java",
+        "url": "https://pennmutuallife-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=1035&company_id=17160&version=1&source=ONLINE&jobOwner=992403&aid=1",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "company": {
+    "name":"Chariot Solutions",
+    "url": "https://chariotsolutions.com",
+    "location": "Fort Washington",
+    "jobs_url": "https://chariotsolutions.com/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Scala Developers",
+        "url": "https://chariot-solutions.workable.com/j/B34AB9E34F",
+        "discipline": "development",
+        "level": "Multiple",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Java Developers",
+        "url": "https://chariot-solutions.workable.com/j/1E6C0BB2C5",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Angular Developers",
+        "url": "https://chariot-solutions.workable.com/j/43F0A3AC88",
+        "discipline": "development",
+        "level": "Multiple",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "React Developers",
+        "url": "https://chariot-solutions.workable.com/jobs/761158",
+        "discipline": "development",
+        "level": "Multiple",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Mobile Developers",
+        "url": "https://chariot-solutions.workable.com/j/2FF70FF36C",
+        "discipline": "development",
+        "level": "Multiple",
+        "found": "2/5/2019"
+      },
+    ]
+  }
+}

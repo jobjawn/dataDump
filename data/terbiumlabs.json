@@ -1,0 +1,42 @@
+{
+  "company": {
+    "name":"Terbium Labs",
+    "url": "https://terbiumlabs.com",
+    "location": "Remote",
+    "jobs_url": "https://terbiumlabs.com/careers.html"
+
+  },
+  "jobs": {
+    "updated": "2/7/2019",
+    "listings": [
+      {
+        "title": "Technical Project Manager",
+        "url": "https://terbiumlabs.com/careers.html",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/7/2019"
+      },
+      {
+        "title": "Software Engineer in Test",
+        "url": "https://terbiumlabs.com/careers.html",
+        "discipline": "qa",
+        "level": "Mid",
+        "found": "2/7/2019"
+      },
+      {
+        "title": "Software Engineer",
+        "url": "https://terbiumlabs.com/careers.html",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/7/2019"
+      },
+      {
+        "title": "Data Scientist",
+        "url": "https://terbiumlabs.com/careers.html",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/7/2019"
+      }
+    ]
+  }
+}

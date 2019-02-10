@@ -1,0 +1,42 @@
+{
+  "company": {
+    "name":"Promptworks",
+    "url": "https://www.promptworks.com",
+    "location": "Center City",
+    "jobs_url": "https://www.promptworks.com/jobs"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Director of Engineering",
+        "url": "https://jobs.lever.co/promptworks/fe305aff-ac5b-40a4-bb9b-f762330eeddf",
+        "discipline": "development",
+        "level": "Manager",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Senior Front End Engineer",
+        "url": "https://jobs.lever.co/promptworks/357e346e-1154-4af9-8ac8-e464b13bc375",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "url": "https://jobs.lever.co/promptworks/5bcd6672-0fb4-4837-9578-cab32b551843",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Software Engineer",
+        "url": "https://jobs.lever.co/promptworks/80ef707f-836e-404b-b09a-e27ceb70bff9",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}

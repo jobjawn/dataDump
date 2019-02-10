@@ -1,0 +1,56 @@
+{
+  "company": {
+    "name":"Deacom",
+    "url": "https://deacom.com",
+    "location": "Chesterbrook",
+    "jobs_url": "https://deacom.com/ViewPage/21/deacom-inc-company-careers"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Data Specialist",
+        "url": "https://deacom.com/ViewPage/185/deacom-inc-data-specialist",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "API Developer",
+        "url": "https://deacom.com/ViewPage/247/deacom-inc-api-developer",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Software Developer",
+        "url": "https://deacom.com/ViewPage/178/deacom-inc-software-engineer",
+        "discipline": "development",
+        "level": "Multiple",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Full Stack Engineer ",
+        "url": "https://deacom.com/ViewPage/257/deacom-inc-full-stack-engineer",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Junior Software Developer",
+        "url": "https://deacom.com/ViewPage/245/deacom-inc-junior-software-developer",
+        "discipline": "development",
+        "level": "Junior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Software Developer Internship",
+        "url": "https://deacom.com/ViewPage/236/deacom-inc-software-developer-internship-summer-2019",
+        "discipline": "development",
+        "level": "Intern",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}

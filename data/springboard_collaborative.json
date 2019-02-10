@@ -1,0 +1,20 @@
+{
+  "company": {
+    "name":"Springboard Collaborative",
+    "url": "https://www.springboardcollaborative.org",
+    "jobs_url": "https://www.springboardcollaborative.org/get-involved/job-seekers/"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Director of Technology",
+        "url": "https://www.springboardcollaborative.org/job/director-of-technology/",
+        "discipline": "development",
+        "level": "Management",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}

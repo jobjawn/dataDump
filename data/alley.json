@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name":"Alley",
+    "url": "https://alley.co",
+    "location": "Remote",
+    "jobs_url": "https://alley.co/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/9/2019",
+    "listings": [
+      {
+        "title": "Software Developer",
+        "url": "https://hire.withgoogle.com/public/jobs/alleyinteractivecom/view/P_AAAAAADAAADPZsoxa_ftqB",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/9/2019"
+      },
+      {
+        "title": "User Experience Developer",
+        "url": "https://hire.withgoogle.com/public/jobs/alleyinteractivecom/view/P_AAAAAADAAADC-grANKsX-n",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/9/2019"
+      },
+      {
+        "title": "Software Developer",
+        "url": "https://hire.withgoogle.com/public/jobs/alleyinteractivecom/view/P_AAAAAADAAFXKbuxnDabDXv",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/9/2019"
+      },
+    ]
+  }
+}

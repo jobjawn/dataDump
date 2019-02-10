@@ -1,0 +1,20 @@
+{
+  "company": {
+    "name":"Vistar Media",
+    "url": "https://www.vistarmedia.com",
+    "location": "Center City",
+    "jobs_url": "https://www.vistarmedia.com/join-our-team/"
+  },
+  "jobs": {
+    "updated": "2/7/2019",
+    "listings": [
+      {
+        "title": "Software Engineer",
+        "url": "https://hire.withgoogle.com/public/jobs/vistarmediacom/view/P_AAAAAAGAAAhLwqKNAZUo9h",
+        "discipline": "developer",
+        "level": "Mid",
+        "found": "2/7/2019"
+      }
+    ]
+  }
+}

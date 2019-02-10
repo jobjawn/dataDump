@@ -1,0 +1,70 @@
+{
+  "company": {
+    "name":"Promptworks",
+    "url": "https://www.chathamfinancial.com",
+    "location": "Kennett Square",
+    "jobs_url": "https://www.chathamfinancial.com/about/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Full Stack Software Developer",
+        "url": "https://www.chathamfinancial.com/open-positions/?gh_jid=610179",
+        "discipline": "developer",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Junior Full Stack Software Developer",
+        "url": "https://www.chathamfinancial.com/open-positions/?gh_jid=589026",
+        "discipline": "developer",
+        "level": "Junior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Lead Full Stack Software Developer",
+        "url": "https://www.chathamfinancial.com/open-positions/?gh_jid=1249625",
+        "discipline": "developer",
+        "level": "Lead",
+        "found": "2/5/2019"
+      },
+      {
+        "title": ".Net Developer",
+        "url": "https://www.chathamfinancial.com/open-positions/?gh_jid=1395451",
+        "discipline": "developer",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Product Owner - ChathamDirect",
+        "url": "https://www.chathamfinancial.com/open-positions/?gh_jid=1404409",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Senior Product Designer",
+        "url": "https://www.chathamfinancial.com/open-positions/?gh_jid=1509277",
+        "discipline": "designer",
+        "level": "",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Software Developer in Test",
+        "url": "https://www.chathamfinancial.com/open-positions/?gh_jid=706424",
+        "discipline": "qa",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "User Experience Designer",
+        "url": "https://www.chathamfinancial.com/open-positions/?gh_jid=1278281",
+        "discipline": "designer",
+        "level": "Mid",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name":"IntegriChain",
+    "url": "https://www.integrichain.com",
+    "location": "Center City",
+    "jobs_url": "https://www.integrichain.com/about-us/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Data Scientist",
+        "url": "https://www.comeet.co/jobs/integrichain/E2.00E/data-scientist/F3.B0D",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Senior Director, Product Engineering",
+        "url": "https://www.comeet.co/jobs/integrichain/E2.00E/senior-director-product-engineering/3B.A06",
+        "discipline": "development",
+        "level": "Management",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Project Manager",
+        "url": "https://www.comeet.co/jobs/integrichain/E2.00E/project-manager/00.B09",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}

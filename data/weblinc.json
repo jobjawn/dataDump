@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name":"WebLinc",
+    "url": "https://www.weblinc.com",
+    "location": "Old City",
+    "jobs_url": "https://www.weblinc.com/pages/careers"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Agile Project Manager",
+        "url": "https://www.weblinc.com/pages/agile-project-manager",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Senior Software Developer",
+        "url": "https://www.weblinc.com/pages/senior-software-developer",
+        "discipline": "developer",
+        "level": "Senior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Software Developer",
+        "url": "https://www.weblinc.com/pages/become-a-workarea-software-developer",
+        "discipline": "developer",
+        "level": "Mid",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}

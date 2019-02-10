@@ -1,0 +1,42 @@
+{
+  "company": {
+    "name":"RevZilla Motorsports",
+    "url": "https://www.revzilla.com",
+    "location": "Navy Yard",
+    "jobs_url": "https://www.revzilla.com/careers"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Cloud Operations Engineer",
+        "url": "https://jobs.lever.co/revzilla/30152014-c6f5-4d64-8936-62f30b3e571e",
+        "discipline": "ops",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Data Architect",
+        "url": "https://jobs.lever.co/revzilla/0a2cd07f-7541-4b9b-819b-413d06f40f3c",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Art Director",
+        "url": "https://jobs.lever.co/revzilla/85f8ee3e-9e4c-4421-b0e0-d3a410041090",
+        "discipline": "design",
+        "level": "Senior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Visual Designer",
+        "url": "https://jobs.lever.co/revzilla/fc1b2f16-b95f-4466-9bcd-bf5bc5c6abf5",
+        "discipline": "design",
+        "level": "Multiple",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "company": {
+    "name":"Digitas Health",
+    "url": "https://www.digitashealth.com",
+    "location": "Philadelphia",
+    "jobs_url": "https://www.digitashealth.com/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/9/2019",
+    "listings": [
+      {
+        "title": "VP, Director of User Experience Design",
+        "url": "https://publicis.taleo.net/careersection/digitas_health_career_section/jobdetail.ftl?job=DHC001409&tz=GMT-05%3A00",
+        "discipline": "design",
+        "level": "Management",
+        "found": "2/9/2019"
+      },
+      {
+        "title": "Senior Art Director",
+        "url": "https://publicis.taleo.net/careersection/digitas_health_career_section/jobdetail.ftl?job=DHC001685&tz=GMT-05%3A00",
+        "discipline": "design",
+        "level": "Senior",
+        "found": "2/9/2019"
+      },
+      {
+        "title": "Senior Copywriter",
+        "url": "https://publicis.taleo.net/careersection/digitas_health_career_section/jobdetail.ftl?job=DHC001683&tz=GMT-05%3A00",
+        "discipline": "content",
+        "level": "Senior",
+        "found": "2/9/2019"
+      },
+      {
+        "title": "Art Director",
+        "url": "https://publicis.taleo.net/careersection/digitas_health_career_section/jobdetail.ftl?job=DHC001680&tz=GMT-05%3A00",
+        "discipline": "design",
+        "level": "Mid",
+        "found": "2/9/2019"
+      },
+      {
+        "title": "Copywriter",
+        "url": "https://publicis.taleo.net/careersection/digitas_health_career_section/jobdetail.ftl?job=DHC001679&tz=GMT-05%3A00",
+        "discipline": "content",
+        "level": "Mid",
+        "found": "2/9/2019"
+      }
+    ]
+  }
+}

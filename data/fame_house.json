@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Fame House",
+    "url": "https://famehouse.net",
+    "location": "Philadelphia",
+    "jobs_url": "https://famehouse.net/category/job-listings/"
+
+  },
+  "jobs": {
+    "updated": "2/9/2019",
+    "listings": [
+      {
+        "title": "Senior Web Developer",
+        "url": "https://famehouse.net/category/job-listings/",
+        "discipline": "developer",
+        "level": "Senior",
+        "found": "2/9/2019"
+      }
+    ]
+  }
+}

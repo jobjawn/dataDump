@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Odessa",
+    "url": "https://www.odessatechnologies.com",
+    "location": "Center City",
+    "jobs_url": "https://www.odessatechnologies.com/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/7/2019",
+    "listings": [
+      {
+        "title": "Senior Project Manager",
+        "url": "https://www.odessatechnologies.com/careers/detail.html?opening=292416&title=Senior%20Project%20Manager&location=Philadelphia,%20United%20States",
+        "discipline": "pm",
+        "level": "Senior",
+        "found": "2/7/2019"
+      }
+    ]
+  }
+}

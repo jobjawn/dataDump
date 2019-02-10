@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name":"Big Cartel",
+    "url": "https://www.bigcartel.com",
+    "location": "Remote",
+    "jobs_url": "https://www.bigcartel.com/jobs"
+
+  },
+  "jobs": {
+    "updated": "2/9/2019",
+    "listings": [
+      {
+        "title": "Product Designer",
+        "url": "https://www.bigcartel.com/jobs#job-248020",
+        "discipline": "design",
+        "level": "Mid",
+        "found": "2/9/2019"
+      },
+      {
+        "title": "Full Stack Web Application Developer",
+        "url": "https://www.bigcartel.com/jobs#job-224169",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/9/2019"
+      }
+    ]
+  }
+}

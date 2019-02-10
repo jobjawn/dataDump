@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name":"Pinnacle 21",
+    "url": "https://www.pinnacle21.com",
+    "location": "Fitler Square",
+    "jobs_url": "https://www.pinnacle21.com/careers"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Senior Software Engineer",
+        "url": "https://jobs.lever.co/instructure/31bcb793-7da5-45bd-a014-164bc9a912be",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Site Reliability Engineer",
+        "url": "https://jobs.lever.co/instructure/cf97e2c7-73c2-4df9-a7a4-d995df29b65c",
+        "discipline": "ops",
+        "level": "Mid",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}

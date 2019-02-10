@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name":"Zivtech",
+    "url": "https://www.zivtech.com",
+    "location": "Center City",
+    "jobs_url": "https://www.zivtech.com/about/careers"
+  },
+  "jobs": {
+    "updated": "2/7/2019",
+    "listings": [
+      {
+        "title": "DRUPAL FRONTEND DEVELOPER",
+        "url": "https://www.zivtech.com/about/career/frontend-drupal-developer",
+        "discipline": "developer",
+        "level": "Mid",
+        "found": "2/7/2019"
+      },
+      {
+        "title": "DRUPAL BACKEND DEVELOPER",
+        "url": "https://www.zivtech.com/about/career/backend-drupal-developer",
+        "discipline": "developer",
+        "level": "Mid",
+        "found": "2/7/2019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "company": {
+    "name":"goPuff",
+    "url": "https://gopuff.com/home",
+    "location": "Fitler Square",
+    "jobs_url": "https://jobs.gopuff.com"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Data Analyst - Business Intelligence",
+        "url": "https://hire.withgoogle.com/public/jobs/gopuffcom/view/P_AAAAAAFAAEONRn44NO1vuw",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Senior Data Analyst - Operations",
+        "url": "https://hire.withgoogle.com/public/jobs/gopuffcom/view/P_AAAAAAFAAEONhUyPXRBE59",
+        "discipline": "data",
+        "level": "Senior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Cloud Native Developer",
+        "url": "https://hire.withgoogle.com/public/jobs/gopuffcom/view/P_AAAAAAFAAEOHzXT-8aua-2",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Mobile Developer",
+        "url": "https://hire.withgoogle.com/public/jobs/gopuffcom/view/P_AAAAAAFAAEON9pLJ90l4Kt",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Sr DevOps Engineer",
+        "url": "https://hire.withgoogle.com/public/jobs/gopuffcom/view/P_AAAAAAFAAEOALuVpx7ok--",
+        "discipline": "ops",
+        "level": "Senior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Sr. Web Developer",
+        "url": "https://hire.withgoogle.com/public/jobs/gopuffcom/view/P_AAAAAAFAAEOEfW0y7NBn6g",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Test Engineering Lead",
+        "url": "https://hire.withgoogle.com/public/jobs/gopuffcom/view/P_AAAAAAFAAEOIsRz46WKzCO",
+        "discipline": "qa",
+        "level": "Lead",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}

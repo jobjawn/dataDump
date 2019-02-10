@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"B Lab",
+    "url": "https://bcorporation.net",
+    "location": "Wayne",
+    "jobs_url": "https://boards.greenhouse.io/blab"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Software Engineer",
+        "url": "https://boards.greenhouse.io/blab/jobs/4183981002",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name":"Quotapath",
+    "url": "https://www.quotapath.com/",
+    "location": "Philadelphia",
+    "jobs_url": "https://www.quotapath.com/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/7/2019",
+    "listings": [
+      {
+        "title": "Full Stack Engineer",
+        "url": "https://www.quotapath.com/full-stack-engineer/",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/7/2019"
+      },
+      {
+        "title": "Product Manager",
+        "url": "https://www.quotapath.com/product-manager/",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/7/2019"
+      }
+    ]
+  }
+}

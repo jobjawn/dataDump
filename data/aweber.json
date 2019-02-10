@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name":"Amino Pay",
+    "url": "https://www.aweber.com",
+    "location": "Chalfont",
+    "jobs_url": "https://www.aweber.com/careers.htm"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "PostgreSQL Database Admin",
+        "url": "https://www.aweber.com/careers-application.htm?gh_jid=1505053",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Senior Software Engineer (Control Panel Team)",
+        "url": "https://www.aweber.com/careers-application.htm?gh_jid=1527858",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Senior Software Engineer (Conversions Team)",
+        "url": "https://www.aweber.com/careers-application.htm?gh_jid=1513504",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}

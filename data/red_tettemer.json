@@ -1,0 +1,34 @@
+{
+    "company": {
+    "name":"Red Tettemer O'Connell + Partners",
+    "url": "https://rtop.com",
+    "location": "Center City",
+    "jobs_url": "https://rtop.com/jobs"
+  },
+  "jobs": {
+    "updated": "2/7/2019",
+    "listings": [
+      {
+        "title": "Art Director",
+        "url": "https://rtop.com/jobs/11?type=phl",
+        "discipline": "design",
+        "level": "Senior",
+        "found": "2/7/2019"
+      },
+      {
+        "title": "Developer",
+        "url": "https://rtop.com/jobs/22?type=phl",
+        "discipline": "developer",
+        "level": "Mid",
+        "found": "2/7/2019"
+      },
+      {
+        "title": "Software Engineer",
+        "url": "https://rtop.com/jobs/39?type=phl",
+        "discipline": "content",
+        "level": "Mid",
+        "found": "2/7/2019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Azavea",
+    "url": "https://www.azavea.com",
+    "location": "Southern Liberties",
+    "jobs_url": "https://careers.azavea.com/#openings"
+
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Operations Engineer",
+        "url": "https://hire.withgoogle.com/public/jobs/azaveacom/view/P_AAAAAADAABpEAj3fKHYZ67",
+        "discipline": "ops",
+        "level": "Mid",
+        "found": "2/5/2019"
+      },
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "company": {
+    "name":"Vanguard Innovation Studio",
+    "url": "https://vanguard.com",
+    "location": "Fitler Square",
+    "jobs_url": "https://www.vanguardjobs.com"
+  },
+  "jobs": {
+    "updated": "2/5/2019",
+    "listings": [
+      {
+        "title": "Technical Lead",
+        "url": "https://www.vanguardjobs.com/job/8985538/technical-lead-lab-innovation-studio-philadelphia-pa/",
+        "discipline": "developer",
+        "level": "Lead",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Software Engineering Manager",
+        "url": "https://www.vanguardjobs.com/job/9042477/software-engineering-manager-philly-innovation-studio-philadelphia-pa/",
+        "discipline": "developer",
+        "level": "Manager",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Analytics Lead",
+        "url": "https://www.vanguardjobs.com/job/9146601/analytics-lead-philadelphia-pa/",
+        "discipline": "data",
+        "level": "Lead",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Senior Java Developer",
+        "url": "https://www.vanguardjobs.com/job/8985537/senior-java-developer-innovation-studio-philadelphia-pa/",
+        "discipline": "developer",
+        "level": "Senior",
+        "found": "2/5/2019"
+      },
+      {
+        "title": "Java Developer",
+        "url": "https://www.vanguardjobs.com/job/8985536/java-developer-lab-innovation-studio-philadelphia-pa/",
+        "discipline": "developer",
+        "level": "Mid",
+        "found": "2/5/2019"
+      }
+    ]
+  }
+}
