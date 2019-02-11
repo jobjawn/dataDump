@@ -1,0 +1,20 @@
+{
+  "company": {
+    "name":"Genomind",
+    "url": "https://genomind.com",
+    "location": "King of Prussia",
+    "jobs_url": "https://genomind.com/about/careers/"
+  },
+  "jobs": {
+    "updated": "2/10/2019",
+    "listings": [
+      {
+        "title": "Software Engineer",
+        "url": "https://genomind.com/?job=software-engineer",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/10/2019"
+      }
+    ]
+  }
+}

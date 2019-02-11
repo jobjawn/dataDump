@@ -1,0 +1,12 @@
+{
+  "company": {
+    "name":"Pet Plan",
+    "url": "https://www.gopetplan.com",
+    "location": "Newtown Square",
+    "jobs_url": "https://www.gopetplan.com/work-with-us"
+  },
+  "jobs": {
+    "updated": "2/10/2019",
+    "listings": []
+  }
+}

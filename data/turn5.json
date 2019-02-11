@@ -1,0 +1,20 @@
+{
+  "company": {
+    "name":"Turn5",
+    "url": "https://www.turn5.com",
+    "location": "Paoli",
+    "jobs_url": "https://www.turn5.com/careers"
+  },
+  "jobs": {
+    "updated": "2/10/2019",
+    "listings": [
+      {
+        "title": "Web Analytics Manager",
+        "url": "https://careers-turn5.icims.com/jobs/1605/web-analytics-manager/job?_ga=2.23537978.1440026745.1549850532-1423154069.1549850532&mobile=false&width=1160&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "discipline": "data",
+        "level": "Management",
+        "found": "2/10/2019"
+      },
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name":"FS Investments",
+    "url": "https://www.fsinvestments.com",
+    "location": "Navy Yard",
+    "jobs_url": "https://www.fsinvestments.com/about/careers"
+
+  },
+  "jobs": {
+    "updated": "2/10/2019",
+    "listings": [
+      {
+        "title": "Director, Application Development",
+        "url": "https://usr55.dayforcehcm.com/CandidatePortal/en-US/fsinvestments/Posting/View/416",
+        "discipline": "developer",
+        "level": "Management",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Software Developer",
+        "url": "https://usr55.dayforcehcm.com/CandidatePortal/en-US/fsinvestments/Posting/View/410",
+        "discipline": "developer",
+        "level": "Mid",
+        "found": "2/10/2019"
+      }
+    ]
+  }
+}

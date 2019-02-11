@@ -1,0 +1,20 @@
+{
+  "company": {
+    "name":"AGI",
+    "url": "https://www.agi.com/home",
+    "location": "Exton",
+    "jobs_url": "https://www.agi.com/about/careers"
+  },
+  "jobs": {
+    "updated": "2/10/2019",
+    "listings": [
+      {
+        "title": "UI Developer",
+        "url": "http://search8.smartsearchonline.com/agi/jobs/jobdetails.asp?job_number=373",
+        "discipline": "developer",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+    ]
+  }
+}

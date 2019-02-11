@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name":"Stelligent",
+    "url": "https://stelligent.com",
+    "location": "Remote",
+    "jobs_url": "https://jobs.lever.co/stelligent"
+  },
+  "jobs": {
+    "updated": "2/10/2019",
+    "listings": [
+      {
+        "title": "DevOps Automation Engineer",
+        "url": "https://jobs.lever.co/stelligent/cca5401f-1ec0-4f89-925a-f43513751e52",
+        "discipline": "DevOps",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Senior DevOps Automation Engineer",
+        "url": "https://jobs.lever.co/stelligent/398bdc31-f62a-44e5-90c1-0d7d6d293f8e",
+        "discipline": "DevOps",
+        "level": "Senior",
+        "found": "2/10/2019"
+      },
+    ]
+  }
+}

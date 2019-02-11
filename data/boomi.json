@@ -1,0 +1,34 @@
+{
+  "company": {
+    "name":"Boomi",
+    "url": "https://boomi.com",
+    "location": "Chesterbrook",
+    "jobs_url": "https://boomi.com/company/careers/"
+  },
+  "jobs": {
+    "updated": "2/10/2019",
+    "listings": [
+      {
+        "title": "Software Senior Engineer - Java, Web Services, Cloud",
+        "url": "https://jobs.dell.com/job/chesterbrook/software-senior-engineer-java-web-services-cloud/375/10385275",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Scrum Master",
+        "url": "https://jobs.dell.com/job/chesterbrook/scrum-master/375/10700774",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Principal Data Scientist",
+        "url": "https://jobs.dell.com/job/north-carolina/principal-data-scientist-100-remote-or-onsite/375/10688225",
+        "discipline": "data",
+        "level": "Lead",
+        "found": "2/10/2019"
+      }
+    ]
+  }
+}

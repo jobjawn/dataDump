@@ -1,0 +1,20 @@
+{
+  "company": {
+    "name":"Thrive",
+    "url": "http://thrivecommerce.com",
+    "location": "Center City",
+    "jobs_url": "http://thrivecommerce.com/jobs/"
+  },
+  "jobs": {
+    "updated": "2/10/2019",
+    "listings": [
+      {
+        "title": "Site Reliability Engineer",
+        "url": "http://thrivecommerce.com/jobs/",
+        "discipline": "DevOps",
+        "level": "Mid",
+        "found": "2/10/2019"
+      }
+    ]
+  }
+}

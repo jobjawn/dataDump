@@ -1,0 +1,55 @@
+{
+  "company": {
+    "name":"Epam",
+    "url": "https://www.epam.com/",
+    "location": "Philadelphia",
+    "jobs_url": "https://www.epam.com/careers"
+  },
+  "jobs": {
+    "updated": "2/10/2019",
+    "listings": [
+      {
+        "title": "Cloud Architect - AWS",
+        "url": "https://www.epam.com/careers/job-listings/job.43199",
+        "discipline": "ops",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Cloud Architect – Azure",
+        "url": "https://www.epam.com/careers/job-listings/job.43198",
+        "discipline": "ops",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Cloud Architect – Google Cloud",
+        "url": "https://www.epam.com/careers/job-listings/job.43197",
+        "discipline": "ops",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Delivery Director – Cloud & DevOps",
+        "url": "https://www.epam.com/careers/job-listings/job.43196",
+        "discipline": "ops",
+        "level": "Management",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Delivery Manager in Test",
+        "url": "https://www.epam.com/careers/job-listings/job.43289",
+        "discipline": "qa",
+        "level": "Management",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Lead Software Engineer",
+        "url": "https://www.epam.com/careers/job-listings/job.44153",
+        "discipline": "development",
+        "level": "Lead",
+        "found": "2/10/2019"
+      },
+    ]
+  }
+}

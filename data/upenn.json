@@ -1,0 +1,83 @@
+{
+  "company": {
+    "name":"UPenn",
+    "url": "https://www.upenn.edu",
+    "location": "University City",
+    "jobs_url": "https://jobs.hr.upenn.edu/postings/search"
+  },
+  "jobs": {
+    "updated": "2/10/2019",
+    "listings": [
+      {
+        "title": "APPLICATION DEVELOPER",
+        "url": "https://jobs.hr.upenn.edu/postings/43465",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "DIRECTOR OF ANALYTICS",
+        "url": "https://jobs.hr.upenn.edu/postings/43321",
+        "discipline": "data",
+        "level": "Management",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "DATA MANAGER",
+        "url": "https://jobs.hr.upenn.edu/postings/43148",
+        "discipline": "data",
+        "level": "Management",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "FULL STACK DEVELOPER",
+        "url": "https://jobs.hr.upenn.edu/postings/42481",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "DATA AND PROGRAMMING SPECIALIST",
+        "url": "https://jobs.hr.upenn.edu/postings/42410",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "APPLICATION ARCHITECT",
+        "url": "https://jobs.hr.upenn.edu/postings/42319",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "APPLICATION DEVELOPER",
+        "url": "https://jobs.hr.upenn.edu/postings/42316",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "DATA ANALYST",
+        "url": "https://jobs.hr.upenn.edu/postings/42309",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "APPLICATION DEVELOPER",
+        "url": "https://jobs.hr.upenn.edu/postings/42048",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "DATABASE ADMINISTRATOR",
+        "url": "https://jobs.hr.upenn.edu/postings/41633",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/10/2019"
+      }
+    ]
+  }
+}

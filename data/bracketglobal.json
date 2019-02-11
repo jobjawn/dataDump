@@ -1,0 +1,62 @@
+{
+  "company": {
+    "name":"Bracket Global",
+    "url": "https://www.bracketglobal.com",
+    "location": "King of Prussia",
+    "jobs_url": "https://www.bracketglobal.com/careers/"
+  },
+  "jobs": {
+    "updated": "2/10/2019",
+    "listings": [
+      {
+        "title": "Senior Product Developer",
+        "url": "https://bracketglobal.hrmdirect.com/employment/job-opening.php?req=960487&&nohd#job",
+        "discipline": "pm",
+        "level": "Senior",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Front End Developer",
+        "url": "https://bracketglobal.hrmdirect.com/employment/job-opening.php?req=960590&&nohd#job",
+        "discipline": "developer",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Scrum Master",
+        "url": "https://bracketglobal.hrmdirect.com/employment/job-opening.php?req=927240&&nohd#job",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Sr Test Automation Engineer",
+        "url": "https://bracketglobal.hrmdirect.com/employment/job-opening.php?req=960059&&nohd#job",
+        "discipline": "qa",
+        "level": "Senior",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Associate Project Manager",
+        "url": "https://bracketglobal.hrmdirect.com/employment/job-opening.php?req=957345&&nohd#job",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Clinical Data Management SQL Programmer",
+        "url": "https://bracketglobal.hrmdirect.com/employment/job-opening.php?req=961376&&nohd#job",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Software Test Engineer II",
+        "url": "https://bracketglobal.hrmdirect.com/employment/job-opening.php?req=927665&&nohd#job",
+        "discipline": "qa",
+        "level": "Senior",
+        "found": "2/10/2019"
+      },
+    ]
+  }
+}

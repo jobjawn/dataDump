@@ -1,0 +1,62 @@
+{
+  "company": {
+    "name":"Mobiquity",
+    "url": "https://www.mobiquityinc.com/",
+    "location": "Wayne",
+    "jobs_url": "https://www.mobiquityinc.com/careers"
+  },
+  "jobs": {
+    "updated": "2/10/2019",
+    "listings": [
+      {
+        "title": "Creative Director",
+        "url": "https://www.mobiquityinc.com/careers#job/ouMI8fwQ",
+        "discipline": "design",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Experience Designer",
+        "url": "https://www.mobiquityinc.com/careers#job/owdX8fwy",
+        "discipline": "design",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Visual Designer",
+        "url": "https://www.mobiquityinc.com/careers#job/o4jP8fw4",
+        "discipline": "design",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Technical Lead",
+        "url": "https://www.mobiquityinc.com/careers#job/oWCc8fwC",
+        "discipline": "development",
+        "level": "Lead",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Principal Systems Architect",
+        "url": "https://www.mobiquityinc.com/careers#job/oZpD7fwS",
+        "discipline": "development",
+        "level": "Lead",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Front End Developer",
+        "url": "https://www.mobiquityinc.com/careers#job/ohfb9fwA",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+      {
+        "title": "Quality Assurance Engineer",
+        "url": "https://www.mobiquityinc.com/careers#job/oPXl9fw0",
+        "discipline": "qa",
+        "level": "Mid",
+        "found": "2/10/2019"
+      },
+    ]
+  }
+}
