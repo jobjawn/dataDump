@@ -3,25 +3,46 @@
     "name":"FS Investments",
     "url": "https://www.fsinvestments.com",
     "location": "Navy Yard",
-    "jobs_url": "https://www.fsinvestments.com/about/careers"
+    "jobs_url": "https://careers.fsinvestments.com"
 
   },
   "jobs": {
-    "updated": "2/10/2019",
+    "updated": "2/12/2019",
     "listings": [
+      {
+        "title": "Data Engineer",
+        "url": "https://usr55.dayforcehcm.com/CandidatePortal/en-US/fsinvestments/Posting/View/430",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Systems Architect",
+        "url": "https://usr55.dayforcehcm.com/CandidatePortal/en-US/fsinvestments/Posting/View/426",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/12/2019"
+      },
       {
         "title": "Director, Application Development",
         "url": "https://usr55.dayforcehcm.com/CandidatePortal/en-US/fsinvestments/Posting/View/416",
-        "discipline": "developer",
+        "discipline": "development",
         "level": "Management",
-        "found": "2/10/2019"
+        "found": "2/12/2019"
       },
       {
         "title": "Software Developer",
         "url": "https://usr55.dayforcehcm.com/CandidatePortal/en-US/fsinvestments/Posting/View/410",
-        "discipline": "developer",
-        "level": "Mid",
-        "found": "2/10/2019"
+        "discipline": "development",
+        "level": "Multiple",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Director, Corporate Systems",
+        "url": "https://usr55.dayforcehcm.com/CandidatePortal/en-US/fsinvestments/Posting/View/415",
+        "discipline": "pm",
+        "level": "pm",
+        "found": "2/12/2019"
       }
     ]
   }
