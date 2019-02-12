@@ -1,0 +1,56 @@
+{
+  "company": {
+    "name":"Threshold.World",
+    "url": "https://www.threshold.world",
+    "location": "Villanova",
+    "jobs_url": "https://www.linkedin.com/company/threshold-world/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Software Product Manager",
+        "url": "https://lnkd.in/eRk_7Sp",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Senior Program Manager",
+        "url": "https://lnkd.in/edHEZgr",
+        "discipline": "pm",
+        "level": "Senior",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Senior Technical Manager",
+        "url": "https://lnkd.in/evxUGjN",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Software Product Designer",
+        "url": "https://lnkd.in/eKVMgkZ",
+        "discipline": "designer",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Data Architect",
+        "url": "https://lnkd.in/erWG9rd",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Developer",
+        "url": "https://lnkd.in/ecifTNY",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Agile Trailblazers",
+    "url": "https://www.agiletrailblazers.com",
+    "location": "Wilmington",
+    "jobs_url": "https://agiletrailblazers.workable.com"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Senior Front-End Developer",
+        "url": "https://agiletrailblazers.workable.com/j/3C286E2893",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/11/2019"
+      },
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name":"Bulogics",
+    "url": "https://bulogics.com/",
+    "location": "East Falls",
+    "jobs_url": "https://bulogics.com/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Senior Embedded Developer",
+        "url": "https://bulogics.com/careers/",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Junior Embedded Developer",
+        "url": "https://bulogics.com/careers/",
+        "discipline": "development",
+        "level": "Junior",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Test and Quality Assurance Engineer",
+        "url": "https://bulogics.com/careers/",
+        "discipline": "qa",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+    ]
+  }
+}

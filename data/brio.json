@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Brio",
+    "url": "https://gobrio.com",
+    "location": "Conshohocken",
+    "jobs_url": "https://gobrio.com/Careers"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Senior .NET Developer",
+        "url": "https://gobrio.com/Careers",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/11/2019"
+      }
+    ]
+  }
+}

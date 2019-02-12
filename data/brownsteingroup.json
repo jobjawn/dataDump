@@ -1,0 +1,13 @@
+{
+  "company": {
+    "name":"Brownstein Group",
+    "url": "https://www.brownsteingroup.com/",
+    "location": "Center City",
+    "jobs_url": "https://www.brownsteingroup.com/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "company": {
+    "name":"Chain.io",
+    "url": "https://www.chain.io",
+    "location": "Center City",
+    "jobs_url": "https://www.chain.io/jobs/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": []
+  }
+}

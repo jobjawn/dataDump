@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name": "Bluecadet",
+    "url": "http://bluecadet.com/",
+    "location": "Wilmington",
+    "jobs_url": "https://www.bluecadet.com/contact/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Senior Designer",
+        "url": "https://www.bluecadet.com/careers/srdesigner/",
+        "discipline": "designer",
+        "level": "Senior",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Creative Director",
+        "url": "https://www.bluecadet.com/careers/creative-director-3/",
+        "discipline": "designer",
+        "level": "Senior",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Senior Back End Developer",
+        "url": "https://www.bluecadet.com/careers/senior-back-end-developer-drupal/",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/11/2019"
+      },
+    ]
+  }
+}

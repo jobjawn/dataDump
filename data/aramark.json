@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Aramark",
+    "url": "https://www.aramark.com",
+    "location": "Philadelphia",
+    "jobs_url": "https://careers.aramark.com/ListJobs/All/Country-US/State-PA/City-Philadelphia/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Lead Designer",
+        "url": "https://careers.aramark.com/ShowJob/Id/209663/Lead-Designer/",
+        "discipline": "designer",
+        "level": "Lead",
+        "found": "2/11/2019"
+      },
+    ]
+  }
+}

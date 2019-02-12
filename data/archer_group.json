@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name":"Archer Group",
+    "url": "http://www.archer-group.com/",
+    "location": "Wilmington",
+    "jobs_url": "https://www.archer-group.com/careers#job-openings"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "SENIOR USER EXPERIENCE DESIGNER",
+        "url": "https://www.archer-group.com/careers#job-openings",
+        "discipline": "designer",
+        "level": "Senior",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "ASSOCIATE PROJECT MANAGER",
+        "url": "https://www.archer-group.com/careers#job-openings",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+    ]
+  }
+}

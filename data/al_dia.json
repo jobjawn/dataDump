@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Al Día",
+    "url": "http://aldianews.com",
+    "location": "Center City",
+    "jobs_url": "http://aldianews.com/pages/more/careers/34548"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Web Developer",
+        "url": "http://aldianews.com/pages/web-developer/43039",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+    ]
+  }
+}

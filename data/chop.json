@@ -1,0 +1,49 @@
+{
+  "company": {
+    "name":"Children's Hospital of Philadelphia",
+    "url": "http://www.chop.edu/",
+    "location": "University City",
+    "jobs_url": "https://careers.chop.edu"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "JavaScript / PHP Developer",
+        "url": "https://careers.chop.edu/job/Philadelphia-IS-Developer-II-PA-19107/505952000/",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Sr. Full Stack Web Developer",
+        "url": "https://careers.chop.edu/job/Philadelphia-IS-Developer-III-PA-19107/510899400/",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Full Stack Web Developer",
+        "url": "https://careers.chop.edu/job/Philadelphia-IS-Developer-II-PA-19107/510902600/",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Full Stack Web Developer/Data Analytics",
+        "url": "https://careers.chop.edu/job/Philadelphia-Full-Stack-Web-DeveloperData-Analytics-PA-19107/534081500/",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+      {
+        "title": ".NET Software Developer",
+        "url": "https://careers.chop.edu/job/Philadelphia-LIMS-Developer-II-PA-19104/515414700/",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+    ]
+  }
+}

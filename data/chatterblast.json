@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Arcweb",
+    "url": "https://chatterblast.com/",
+    "location": "Center City",
+    "jobs_url": "https://chatterblast.com/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Graphic Designer",
+        "url": "https://chatterblast.com/careers/",
+        "discipline": "design",
+        "level": "Mid",
+        "found": "2/11/2019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "company": {
+    "name":"Bressler Group",
+    "url": "https://www.bresslergroup.com/",
+    "location": "Center City",
+    "jobs_url": "https://www.bresslergroup.com/about/#jobs"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "company": {
+    "name":"WHYY",
+    "url": "https://whyy.org",
+    "location": "Old City",
+    "jobs_url": "https://whyy.org/employment/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": []
+  }
+}

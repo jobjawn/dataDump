@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Brolik",
+    "url": "https://brolik.com",
+    "location": "Southern Liberties",
+    "jobs_url": "https://brolik.com/careers"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Full Stack Web Developer",
+        "url": "https://brolik.com/careers",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/11/2019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Arcweb",
+    "url": "https://arcweb.co",
+    "location": "Old City",
+    "jobs_url": "https://arcweb.jazz.co/apply/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Engineering Team",
+        "url": "https://arcweb.jazz.co/apply/WlukvsZynm/Engineering-Team",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/11/2019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "company": {
+    "name":"Billy Penn",
+    "url": "https://billypenn.com/",
+    "location": "Philadelphia",
+    "jobs_url": "https://billypenn.com/jobs/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": []
+  }
+}

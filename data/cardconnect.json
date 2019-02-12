@@ -1,0 +1,56 @@
+{
+  "company": {
+    "name":"Card Connect",
+    "url": "https://cardconnect.com",
+    "location": "King of Prussia",
+    "jobs_url": "https://cardconnect.com/company/careers"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Software Engineer (Java)",
+        "url": "https://cardconnect.com/company/careers",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Software Test Engineer",
+        "url": "https://cardconnect.com/company/careers",
+        "discipline": "qa",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Senior Java Software Engineer",
+        "url": "https://cardconnect.com/company/careers",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Senior Database Administrator",
+        "url": "https://cardconnect.com/company/careers",
+        "discipline": "data",
+        "level": "Senior",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Web Development Lead",
+        "url": "https://cardconnect.com/company/careers",
+        "discipline": "development",
+        "level": "Lead",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "Software Architect",
+        "url": "https://cardconnect.com/company/careers",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+    ]
+  }
+}

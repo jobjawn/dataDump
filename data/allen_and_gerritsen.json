@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Allen & Gerritsen",
+    "url": "https://www.a-g.com",
+    "location": "Center City",
+    "jobs_url": "https://www.a-g.com/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Director, Analytics",
+        "url": "https://www.a-g.com/careers/position-details?id=job_20181011203336_MRRI5Y5LBNNUMNMO",
+        "discipline": "data",
+        "level": "Management",
+        "found": "2/11/2019"
+      },
+    ]
+  }
+}

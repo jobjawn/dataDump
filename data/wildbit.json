@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Wildbit",
+    "url": "https://wildbit.com",
+    "location": "Old City",
+    "jobs_url": "https://wildbit.com/jobs"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "Director of Engineering (Postmark)",
+        "url": "https://wildbit.com/jobs/engineering-manager-postmark",
+        "discipline": "development",
+        "level": "Management",
+        "found": "2/11/2019"
+      },
+    ]
+  }
+}

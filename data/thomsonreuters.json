@@ -1,0 +1,13 @@
+{
+  "company": {
+    "name":"Thomson Reuters",
+    "url": "https://www.thomsonreuters.com/en.html",
+    "location": "Philadelphia",
+    "jobs_url": "http://jobs.thomsonreuters.com/ListJobs/All/Search/TR-Other-Locations/Philadelphia-Pennsylvania-United%20States%20of%20America"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": []
+  }
+}

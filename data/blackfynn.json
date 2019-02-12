@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name":"Blackfynn",
+    "url": "https://www.blackfynn.com",
+    "location": "Center City",
+    "jobs_url": "https://www.blackfynn.com/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": [
+      {
+        "title": "DATA CURATOR",
+        "url": "https://blackfynn.bamboohr.com/jobs/view.php?id=17",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+      {
+        "title": "DATA SCIENTIST",
+        "url": "https://blackfynn.bamboohr.com/jobs/view.php?id=16",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/11/2019"
+      },
+    ]
+  }
+}

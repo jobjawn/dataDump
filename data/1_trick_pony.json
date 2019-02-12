@@ -1,0 +1,13 @@
+{
+  "company": {
+    "name":"1 Trick Pony",
+    "url": "http://1trickpony.com/",
+    "location": "Hammonton, NJ",
+    "jobs_url": "http://1trickpony.com/jobs/"
+
+  },
+  "jobs": {
+    "updated": "2/11/2019",
+    "listings": []
+  }
+}
