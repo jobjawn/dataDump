@@ -1,0 +1,70 @@
+{
+  "company": {
+    "name":"HERO_digital",
+    "url": "http://www.herodigital.com",
+    "location": "Center City",
+    "jobs_url": "https://herodigital.com/current-openings/"
+
+  },
+  "jobs": {
+    "updated": "2/13/2019",
+    "listings": [
+      {
+        "title": "Creative / Design Director",
+        "url": "https://herodigital.com/current-openings/?gh_jid=1381546",
+        "discipline": "design",
+        "level": "Lead",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Data Engineer",
+        "url": "https://herodigital.com/current-openings/?gh_jid=1462928",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Senior Analytics Consultant",
+        "url": "https://herodigital.com/current-openings/?gh_jid=1445915",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/13/2019"
+      },
+      {
+        "title": ".NET Tech Lead",
+        "url": "https://herodigital.com/current-openings/?gh_jid=1288233",
+        "discipline": "development",
+        "level": "Lead",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Quality Assurance (QA) Manager",
+        "url": "https://herodigital.com/current-openings/?gh_jid=1294594",
+        "discipline": "qa",
+        "level": "Management",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Senior Front End Developer",
+        "url": "https://herodigital.com/current-openings/?gh_jid=1296144",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Traffic Manager",
+        "url": "https://herodigital.com/current-openings/?gh_jid=1453580",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Sr. Digital Project Manager",
+        "url": "https://herodigital.com/current-openings/?gh_jid=1455885",
+        "discipline": "pm",
+        "level": "Senior",
+        "found": "2/13/2019"
+      },
+    ]
+  }
+}

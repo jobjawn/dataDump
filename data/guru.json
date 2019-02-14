@@ -1,0 +1,77 @@
+{
+  "company": {
+    "name":"Guru",
+    "url": "https://www.getguru.com",
+    "location": "Center City",
+    "jobs_url": "https://www.getguru.com/jobs/"
+
+  },
+  "jobs": {
+    "updated": "2/13/2019",
+    "listings": [
+      {
+        "title": "Data Scientist",
+        "url": "https://www.getguru.com/jobs/?gh_jid=1487783",
+        "discipline": "development",
+        "level": "Lead",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Engineering Manager, Data Science",
+        "url": "https://www.getguru.com/jobs/?gh_jid=1336675",
+        "discipline": "data",
+        "level": "Lead",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Senior Data Scientist",
+        "url": "https://www.getguru.com/jobs/?gh_jid=1394569",
+        "discipline": "data",
+        "level": "Senior",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Software Engineer, Back End Intern",
+        "url": "https://www.getguru.com/jobs/?gh_jid=1426364",
+        "discipline": "development",
+        "level": "Intern",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Software Engineer, Front End Intern",
+        "url": "https://www.getguru.com/jobs/?gh_jid=1426356",
+        "discipline": "development",
+        "level": "Intern",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Sr. Software Engineer, Back End",
+        "url": "https://www.getguru.com/jobs/?gh_jid=1169526",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "VP, Engineering",
+        "url": "https://www.getguru.com/jobs/?gh_jid=1129913",
+        "discipline": "development",
+        "level": "Management",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Head of Product",
+        "url": "https://www.getguru.com/jobs/?gh_jid=1522123",
+        "discipline": "pm",
+        "level": "Management",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Product Manager",
+        "url": "https://www.getguru.com/jobs/?gh_jid=1510281",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/13/2019"
+      },
+    ]
+  }
+}

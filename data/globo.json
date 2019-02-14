@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Globo",
+    "url": "https://www.helloglobo.com",
+    "location": "Wyncote",
+    "jobs_url": "https://www.helloglobo.com/careers"
+
+  },
+  "jobs": {
+    "updated": "2/13/2019",
+    "listings": [
+      {
+        "title": "Data Analyst",
+        "url": "https://hire.withgoogle.com/public/jobs/helloglobocom/view/P_AAAAAAEAABKCsyfk4YP2-g",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/13/2019"
+      }
+    ]
+  }
+}

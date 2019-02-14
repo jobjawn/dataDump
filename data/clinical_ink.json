@@ -1,0 +1,105 @@
+{
+  "company": {
+    "name":"Clinical Ink",
+    "url": "https://www.clinicalink.com",
+    "location": "Old City",
+    "jobs_url": "https://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a78826752b0003a0152d305414414ee"
+
+  },
+  "jobs": {
+    "updated": "2/12/2019",
+    "listings": [
+      {
+        "title": "Clinical Programmer",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7887a8676d101f01677f88971e5926&source=",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Project Data Manager",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78859e6675eeac0166784d50ea4e11&source=",
+        "discipline": "data",
+        "level": "Mid",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Software Developer",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78879e66263169016630a4d8bd5853&source=",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Sr. Mobile Developer (Android)",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78859e6675eeac016683da76fa4a27&source=",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Sr. Mobile Developer (iOS)",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78839f67965cbd016798650e191a85&source=",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Sr. Mobile Engineer",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78859e6675eeac016683ebcda25437&source=",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Sr. Software (Web) Developer",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78879e644d317f0164a2f9c2c55be5&source=",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Sr. Software Developer",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78879e66263169016630964e7b45e4&source=",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Sr. Web Developer",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78859e6675eeac016683e255264e12&source=",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Associate Project Manager",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78839f62cbb3f70162ce75f89c03d3&source=",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Project Manager",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78859e610221c20161054a636032c3&source=",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Project Support Coordinator",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7887a9670aebb30167124ff1ed2613&source=",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/12/2019"
+      },
+      {
+        "title": "Software Quality Analyst",
+        "url": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78879e64f8df5d01651b3b38941d47&source=",
+        "discipline": "qa",
+        "level": "Mid",
+        "found": "2/12/2019"
+      }
+    ]
+  }
+}

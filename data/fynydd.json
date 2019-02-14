@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Fynydd",
+    "url": "https://fynydd.com",
+    "location": "Remote",
+    "jobs_url": "https://fynydd.com/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/13/2019",
+    "listings": [
+      {
+        "title": "Senior full-stack software developer",
+        "url": "https://fynydd.com/careers/jp2003-senior-full-stack-software-developer/",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/13/2019"
+      }
+    ]
+  }
+}

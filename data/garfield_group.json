@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name":"Garfield Group",
+    "url": "https://garfieldgroup.com",
+    "location": "Old City",
+    "jobs_url": "https://garfieldgroup.com/careers"
+
+  },
+  "jobs": {
+    "updated": "2/13/2019",
+    "listings": [
+      {
+        "title": "Content Writer",
+        "url": "https://garfieldgroup.bamboohr.com/jobs/view.php?id=40",
+        "discipline": "content",
+        "level": "Mid",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Copywriter Intern",
+        "url": "https://garfieldgroup.bamboohr.com/jobs/view.php?id=29",
+        "discipline": "content",
+        "level": "Intern",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Full Stack Developer",
+        "url": "https://garfieldgroup.bamboohr.com/jobs/view.php?id=43",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/13/2019"
+      }
+    ]
+  }
+}

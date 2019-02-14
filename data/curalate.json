@@ -1,0 +1,49 @@
+{
+  "company": {
+    "name":"Curalate",
+    "url": "https://www.curalate.com",
+    "location": "Center City",
+    "jobs_url": "https://www.themuse.com/profiles/curalate"
+
+  },
+  "jobs": {
+    "updated": "2/13/2019",
+    "listings": [
+      {
+        "title": "Product Manager",
+        "url": "https://www.themuse.com/profiles/curalate",
+        "discipline": "pm",
+        "level": "Mid",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Director of Client Experience",
+        "url": "https://www.themuse.com/profiles/curalate",
+        "discipline": "pm",
+        "level": "Management",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Software Engineer Intern",
+        "url": "https://www.themuse.com/profiles/curalate",
+        "discipline": "development",
+        "level": "Intern",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "url": "https://www.themuse.com/profiles/curalate",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Software Engineer",
+        "url": "https://www.themuse.com/profiles/curalate",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/13/2019"
+      }
+    ]
+  }
+}

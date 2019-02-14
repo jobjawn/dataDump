@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Live Ramp",
+    "url": "https://liveramp.com",
+    "location": "Philadelphia",
+    "jobs_url": "https://liveramp.com/careers/open-positions/"
+
+  },
+  "jobs": {
+    "updated": "2/12/2019",
+    "listings": [
+      {
+        "title": "Product Operations Manager - Data Acquisition",
+        "url": "https://liveramp.com/careers/job/?gh_jid=1459792",
+        "discipline": "data",
+        "level": "Management",
+        "found": "2/12/2019"
+      }
+    ]
+  }
+}
