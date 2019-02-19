@@ -1,0 +1,20 @@
+{
+  "company": {
+    "name":"Warner Bros Digital Labs",
+    "url": "https://wbdl.com",
+    "location": "Center City",
+    "jobs_url": "https://wbdl.com/careers/#positions"
+  },
+  "jobs": {
+    "updated": "2/19/2019",
+    "listings": [
+      {
+        "title": "Software Engineer, Backend",
+        "url": "https://www.warnerbroscareers.com/find-jobs/?165030BR",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/19/2019"
+      }
+    ]
+  }
+}
