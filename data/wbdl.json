@@ -1,0 +1,55 @@
+{
+  "company": {
+    "name":"Warner Bros Digital Labs",
+    "url": "https://wbdl.com",
+    "location": "Center City",
+    "jobs_url": "https://wbdl.com/careers/#positions"
+  },
+  "jobs": {
+    "updated": "2/19/2019",
+    "listings": [
+      {
+        "title": "Software Engineer, Backend",
+        "url": "https://www.warnerbroscareers.com/find-jobs/?165030BR",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/19/2019"
+      },
+      {
+        "title": "Software Engineer, iOS",
+        "url": "https://www.warnerbroscareers.com/find-jobs/?165571BR",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/19/2019"
+      },
+      {
+        "title": "Software Engineer, Android",
+        "url": "https://www.warnerbroscareers.com/find-jobs/?167765BR",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/19/2019"
+      },
+      {
+        "title": "DevOps Engineer",
+        "url": "https://www.warnerbroscareers.com/find-jobs/?167431BR",
+        "discipline": "ops",
+        "level": "Mid",
+        "found": "2/19/2019"
+      },
+      {
+        "title": "QA Engineer",
+        "url": "https://www.warnerbroscareers.com/find-jobs/?165215BR",
+        "discipline": "qa",
+        "level": "Mid",
+        "found": "2/19/2019"
+      },
+      {
+        "title": "Project Manager",
+        "url": "https://www.warnerbroscareers.com/find-jobs/?164295BR",
+        "discipline": "pm",
+        "level": "Junior",
+        "found": "2/19/2019"
+      }
+    ]
+  }
+}

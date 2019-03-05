@@ -1,0 +1,42 @@
+{
+  "company": {
+    "name":"Eastern Standard",
+    "url": "https://www.easternstandard.com/",
+    "location": "Center City",
+    "jobs_url": "https://www.easternstandard.com/careers"
+
+  },
+  "jobs": {
+    "updated": "2/13/2019",
+    "listings": [
+      {
+        "title": "Senior Support Developer",
+        "url": "https://www.easternstandard.com/careers",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Senior Front-End Web Developer",
+        "url": "https://www.easternstandard.com/careers",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Senior Back-End Web Developer",
+        "url": "https://www.easternstandard.com/careers",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Full-stack CMS Developer",
+        "url": "https://www.easternstandard.com/careers",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/13/2019"
+      },
+    ]
+  }
+}

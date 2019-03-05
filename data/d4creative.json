@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"D4 Creative",
+    "url": "https://www.d4creative.com",
+    "location": "Manayunk",
+    "jobs_url": "https://www.d4creative.com/careers"
+
+  },
+  "jobs": {
+    "updated": "2/13/2019",
+    "listings": [
+      {
+        "title": "Art Director/Senior Designer",
+        "url": "https://www.d4creative.com/careers",
+        "discipline": "design",
+        "level": "Senior",
+        "found": "2/13/2019"
+      }
+    ]
+  }
+}

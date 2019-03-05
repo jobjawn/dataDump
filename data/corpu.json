@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name":"Corp/U",
+    "url": "https://www.corpu.com",
+    "location": "Center City",
+    "jobs_url": "https://www.corpu.com/careers/"
+
+  },
+  "jobs": {
+    "updated": "2/13/2019",
+    "listings": [
+      {
+        "title": "Senior Graphic Designer",
+        "url": "https://www.corpu.com/careers/senior-graphic-designer/",
+        "discipline": "design",
+        "level": "Senior",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Solution Architect",
+        "url": "https://www.corpu.com/careers/solution-architect/",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/13/2019"
+      }
+    ]
+  }
+}

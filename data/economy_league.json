@@ -1,0 +1,13 @@
+{
+  "company": {
+    "name":"Economy League",
+    "url": "http://economyleague.org",
+    "location": "Center City",
+    "jobs_url": "http://economyleague.org/about-us/join-our-team"
+
+  },
+  "jobs": {
+    "updated": "2/13/2019",
+    "listings": []
+  }
+}

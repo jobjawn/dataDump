@@ -1,0 +1,49 @@
+{
+  "company": {
+    "name":"Entech",
+    "url": "https://www.entech.com/",
+    "location": "Malvern",
+    "jobs_url": "https://www.entech.com/careers"
+
+  },
+  "jobs": {
+    "updated": "2/13/2019",
+    "listings": [
+      {
+        "title": "Senior Software Developer",
+        "url": "https://www.entech.com/careers",
+        "discipline": "development",
+        "level": "Senior",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Software Developer",
+        "url": "https://www.entech.com/careers",
+        "discipline": "development",
+        "level": "Mid",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Technical Lead",
+        "url": "https://www.entech.com/careers",
+        "discipline": "development",
+        "level": "Lead",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Software Delivery Director",
+        "url": "https://www.entech.com/careers",
+        "discipline": "development",
+        "level": "Management",
+        "found": "2/13/2019"
+      },
+      {
+        "title": "Server Engineer",
+        "url": "https://www.entech.com/careers",
+        "discipline": "ops",
+        "level": "Mid",
+        "found": "2/13/2019"
+      },
+    ]
+  }
+}

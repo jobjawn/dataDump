@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name":"Club OS",
+    "url": "https://www.club-os.com",
+    "location": "Center City",
+    "jobs_url": "https://clubos.recruiterbox.com"
+
+  },
+  "jobs": {
+    "updated": "2/13/2019",
+    "listings": [
+      {
+        "title": "Lead Software Engineer",
+        "url": "https://clubos.recruiterbox.com/jobs/fk0jw3o/",
+        "discipline": "development",
+        "level": "Lead",
+        "found": "2/13/2019"
+      }
+    ]
+  }
+}
