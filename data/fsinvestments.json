@@ -7,7 +7,7 @@
 
   },
   "jobs": {
-    "updated": "2/12/2019",
+    "updated": "3/5/2019",
     "listings": [
       {
         "title": "Data Engineer",
@@ -43,6 +43,13 @@
         "discipline": "pm",
         "level": "pm",
         "found": "2/12/2019"
+      },
+      {
+        "title": "Dev Ops Engineer",
+        "url": "https://usr55.dayforcehcm.com/CandidatePortal/en-US/fsinvestments/Posting/View/472",
+        "discipline": "ops",
+        "level": "Mid",
+        "found": "3/5/2019"
       }
     ]
   }
